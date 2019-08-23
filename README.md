@@ -6,6 +6,8 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/riftbit/go-systray)](https://goreportcard.com/report/github.com/riftbit/go-systray)
 [![Release](https://img.shields.io/badge/release-v1.0.0-blue.svg?style=flat)](https://github.com/riftbit/go-systray/releases)
 
+## DEVELOPMENT CURRENTLY STOPPED! Maybe later...
+
 
 ### WIP! WORK IN PROGRESS! Can be unstable!
 
